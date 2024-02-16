@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fifth-post.md",
+                "file": "posts/lorem-ipsum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/fifth-post.md",
+                "file": "posts/lorem-ipsum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/fifth-post.md",
+                "file": "posts/lorem-ipsum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/fifth-post.md"
+                "file": "posts/lorem-ipsum.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "725ea48fe0a10d4a",
   "lastOpenFiles": [
+    "_site/posts/lorem-ipsum/index.html",
+    "_site/posts/lorem-ipsum",
     "_site/assets/images/image-1.png",
     "assets/images/image-1.png",
     "_site/assets/images/Pasted image 20240216114141.png",
@@ -170,7 +172,7 @@
     "_site/posts/Untitled/index.html",
     "_site/posts/Untitled",
     "posts/third-post.md",
-    "posts/fifth-post.md",
+    "posts/lorem-ipsum.md",
     "_site/assets/images/files-and-links-settings.png",
     "assets/images/files-and-links-settings.png",
     "posts/fourth-post.md",
@@ -184,9 +186,7 @@
     "_site/posts/first-post/index.html",
     "_site/assets/images/og.png",
     "_site/assets/images/og-test.jpg",
-    "_site/assets/images/icon.png",
     "_site/posts/third-post",
-    "_site/posts/second-post",
     "posts/Invalid date.md",
     "templates/new-post.md"
   ]
