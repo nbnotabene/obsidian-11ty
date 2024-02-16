@@ -13,9 +13,9 @@ All notes being published here from Obsidian using [Eleventy](https://11ty.dev/)
 
 <div>
 {% for post in posts %}
-<article>
-    <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-</article>
+<ul>
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+</ul>
 {% endfor %}
 
 <!-- Pagination links -->

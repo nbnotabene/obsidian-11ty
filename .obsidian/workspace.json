@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e66008ddb7f6b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/third-post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "725ea48fe0a10d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "posts/lorem-ipsum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f269063a16f3470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/etiam-ligula.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/lorem-ipsum.md",
+                "file": "posts/etiam-ligula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/lorem-ipsum.md",
+                "file": "posts/etiam-ligula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/lorem-ipsum.md"
+                "file": "posts/etiam-ligula.md"
               }
             }
           }
@@ -159,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "725ea48fe0a10d4a",
+  "active": "ca19e6bd86960d27",
   "lastOpenFiles": [
+    "assets/images/og.png",
+    "_site/posts/etiam-ligula/index.html",
+    "_site/posts/etiam-ligula",
+    "posts/lorem-ipsum.md",
+    "posts/etiam-ligula.md",
     "_site/posts/lorem-ipsum/index.html",
     "_site/posts/lorem-ipsum",
     "_site/assets/images/image-1.png",
@@ -172,7 +177,6 @@
     "_site/posts/Untitled/index.html",
     "_site/posts/Untitled",
     "posts/third-post.md",
-    "posts/lorem-ipsum.md",
     "_site/assets/images/files-and-links-settings.png",
     "assets/images/files-and-links-settings.png",
     "posts/fourth-post.md",
@@ -182,11 +186,8 @@
     "assets/images/git-plugin.png",
     "_site/posts/third-post/index.html",
     "_site/posts/second-post/index.html",
-    "_site/posts/fourth-post/index.html",
-    "_site/posts/first-post/index.html",
     "_site/assets/images/og.png",
     "_site/assets/images/og-test.jpg",
-    "_site/posts/third-post",
     "posts/Invalid date.md",
     "templates/new-post.md"
   ]
