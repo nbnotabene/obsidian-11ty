@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "posts",
   "attachmentFolderPath": "assets/images",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

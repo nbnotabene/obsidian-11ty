@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "725ea48fe0a10d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/fifth-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/third-post.md",
+                "file": "posts/fifth-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/third-post.md",
+                "file": "posts/fifth-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/third-post.md"
+                "file": "posts/fifth-post.md"
               }
             }
           }
@@ -146,8 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca19e6bd86960d27",
+  "active": "725ea48fe0a10d4a",
   "lastOpenFiles": [
+    "_site/posts/fifth-post/index.html",
+    "_site/posts/fifth-post",
+    "_site/posts/Untitled/index.html",
+    "_site/posts/Untitled",
+    "posts/third-post.md",
+    "posts/fifth-post.md",
+    "_site/assets/images/files-and-links-settings.png",
+    "assets/images/files-and-links-settings.png",
+    "posts/fourth-post.md",
+    "_site/assets/images/git-plugin.png",
+    "posts/second-post.md",
+    "posts/first-post.md",
+    "assets/images/git-plugin.png",
     "_site/posts/third-post/index.html",
     "_site/posts/second-post/index.html",
     "_site/posts/fourth-post/index.html",
@@ -158,14 +184,6 @@
     "_site/posts/third-post",
     "_site/posts/second-post",
     "_site/posts/fourth-post",
-    "_site/posts/first-post",
-    "_site/assets/pico.min.css",
-    "_site/assets/images",
-    "_site/assets/custom.css",
-    "posts/second-post.md",
-    "posts/fourth-post.md",
-    "posts/first-post.md",
-    "posts/third-post.md",
     "posts/Invalid date.md",
     "templates/new-post.md"
   ]

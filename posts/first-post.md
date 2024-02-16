@@ -1,7 +1,7 @@
 ---
 title: First Post
-description: Explore Bug Profiles to know more about your favorite bugs! Learn their interesting features, habitats, and roles in our ecosystem.
+description: this is first post
 date: 2023-07-17
 ---
 
-Explore Bug Profiles to know more about your favorite bugs! Learn their interesting features, habitats, and roles in our ecosystem. Explore Bug Profiles to know more about your favorite bugs! Learn their interesting features, habitats, and roles in our ecosystem. Explore Bug Profiles to know more about your favorite bugs! Learn their interesting features, habitats, and roles in our ecosystem.
+this is the very first post

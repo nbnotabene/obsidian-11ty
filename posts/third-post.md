@@ -1,6 +1,7 @@
 ---
 title: Third Post
-description: Explore Bug Profiles to know more about your favorite bugs! Learn their interesting features, habitats, and roles in our ecosystem.
+description: third post description
 date: 2024-01-31
 ---
 
+This is the third post, you can see [fourth-post](/posts/fourth-post) here.
