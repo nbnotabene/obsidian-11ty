@@ -6,7 +6,7 @@ permalink: "sitemap.xml"
   {%- for item in collections.all %}
     {%- unless item.data.ignore == true %}
       <url>
-        <loc>https://obsidian.deepakness.com{{ item.url }}</loc>
+        <loc>https://obsidian11ty.netlify.app{{ item.url }}</loc>
         <lastmod>{{ item.date | date: '%Y-%m-%d' }}</lastmod>
       </url>
     {%- endunless %}
