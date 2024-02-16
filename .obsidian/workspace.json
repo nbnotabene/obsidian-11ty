@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "922183ecb729691d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0509a07efccdd3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e66008ddb7f6b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/third-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87e1ac68b1a9cc6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7154bbe90ccacb85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca19e6bd86960d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa5061eb65011649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0802fb42bb035d66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf152282db9429b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "694c41ba075ad0e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4fee668af0e1c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/third-post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8c88ce99bca6938",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/third-post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79877835365ad6bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d78663595ab714f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/third-post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca19e6bd86960d27",
+  "lastOpenFiles": [
+    "_site/posts/third-post/index.html",
+    "_site/posts/second-post/index.html",
+    "_site/posts/fourth-post/index.html",
+    "_site/posts/first-post/index.html",
+    "_site/assets/images/og.png",
+    "_site/assets/images/og-test.jpg",
+    "_site/assets/images/icon.png",
+    "_site/posts/third-post",
+    "_site/posts/second-post",
+    "_site/posts/fourth-post",
+    "_site/posts/first-post",
+    "_site/assets/pico.min.css",
+    "_site/assets/images",
+    "_site/assets/custom.css",
+    "posts/second-post.md",
+    "posts/fourth-post.md",
+    "posts/first-post.md",
+    "posts/third-post.md",
+    "posts/Invalid date.md",
+    "templates/new-post.md"
+  ]
+}
