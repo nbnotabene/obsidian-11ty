@@ -7,7 +7,7 @@ Some content here, you can read the [old post](/posts/lorem-ipsum) here
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae ultrices enim. Aliquam efficitur condimentum magna, sit amet eleifend nulla feugiat sit amet.
 
-![](/assets/images/)
+![](/assets/images/git-plugin.png)
 
 Mauris **blandit tristique eros**, sit amet sollicitudin dui tristique sit amet.
 
