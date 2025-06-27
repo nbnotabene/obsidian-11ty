@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: NB-info Lorem ipsum dolor sit amet
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae ultrices enim. Aliquam efficitur condimentum magna, sit amet eleifend nulla feugiat sit amet.
 date: 2024-02-16
 ---

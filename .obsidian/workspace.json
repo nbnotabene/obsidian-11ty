@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/lorem-ipsum.md",
+                "file": "posts/NBNB lorem-ipsum.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lorem-ipsum"
+              "title": "NBNB lorem-ipsum"
             }
           }
         ]
@@ -183,7 +183,7 @@
     "assets/images/og.png",
     "_site/posts/etiam-ligula/index.html",
     "_site/posts/etiam-ligula",
-    "posts/lorem-ipsum.md",
+    "posts/NBNB lorem-ipsum.md",
     "_site/posts/lorem-ipsum/index.html",
     "_site/posts/lorem-ipsum",
     "_site/assets/images/image-1.png",

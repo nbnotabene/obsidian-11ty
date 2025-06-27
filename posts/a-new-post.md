@@ -3,7 +3,7 @@ title: a new post
 description: this is a new post
 date: 2024-02-14
 ---
-Lorem ipsum dolor sit amet, [consectetur adipiscing](/posts/lorem-ipsum) elit. In vitae ultrices enim. Aliquam efficitur condimentum magna, sit amet eleifend nulla feugiat sit amet.
+Lorem ipsum dolor sit amet, [consectetur adipiscing](posts/NBNB%20lorem-ipsum.md) elit. In vitae ultrices enim. Aliquam efficitur condimentum magna, sit amet eleifend nulla feugiat sit amet.
 
 ![](/assets/images/git-plugin.png)
 
