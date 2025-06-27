@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://obsidian11ty.netlify.app/</loc>
+        <loc>https://nbinfo.netlify.app/</loc>
         <lastmod>2023-07-17</lastmod>
       </url>
       <url>
-        <loc>https://obsidian11ty.netlify.app/posts/a-new-post/</loc>
+        <loc>https://nbinfo.netlify.app/posts/a-new-post/</loc>
         <lastmod>2024-02-14</lastmod>
       </url>
       <url>
-        <loc>https://obsidian11ty.netlify.app/posts/etiam-ligula/</loc>
+        <loc>https://nbinfo.netlify.app/posts/etiam-ligula/</loc>
         <lastmod>2024-02-15</lastmod>
       </url>
       <url>
-        <loc>https://obsidian11ty.netlify.app/posts/NBNB lorem-ipsum/</loc>
+        <loc>https://nbinfo.netlify.app/posts/NBNB lorem-ipsum/</loc>
         <lastmod>2024-02-16</lastmod>
       </url>
       <url>
-        <loc>https://obsidian11ty.netlify.app/sitemap.xml</loc>
+        <loc>https://nbinfo.netlify.app/sitemap.xml</loc>
         <lastmod>2025-06-26</lastmod>
       </url>
 </urlset>
