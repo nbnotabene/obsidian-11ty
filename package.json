@@ -8,6 +8,7 @@
     "build": "eleventy",
     "serve": "eleventy --serve"
   },
+  "npm": "npm run serve to start a local server",
   "keywords": [],
   "author": "",
   "license": "ISC",
