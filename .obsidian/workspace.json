@@ -170,6 +170,7 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "README",
     "dist/posts/a-new-post/index.html",
     "dist/posts/etiam-ligula/index.html",
     "dist/posts/etiam-ligula",
@@ -185,7 +186,6 @@
     "dist/assets/images/icon.png",
     "dist/assets/images/git-plugin.png",
     "dist/assets/images/files-and-links-settings.png",
-    "dist/assets/custom.css",
     "templates/new-post.md",
     "posts/NBNB lorem-ipsum.md",
     "posts/etiam-ligula.md",
