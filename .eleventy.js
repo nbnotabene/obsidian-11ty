@@ -6,3 +6,19 @@ module.exports = function(eleventyConfig) {
     // Ignore Templates folder
     eleventyConfig.ignores.add("/templates");
 };
+
+/*
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/assets");
+
+  return {
+    dir: {
+      input: "src",
+      output: "dist"
+    },
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk"
+  };
+};
+*/
