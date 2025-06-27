@@ -5,5 +5,6 @@
   "newFileFolderPath": "posts",
   "attachmentFolderPath": "assets/images",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
