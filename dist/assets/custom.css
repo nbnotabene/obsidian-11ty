@@ -1,0 +1,48 @@
+/* Teal Light scheme (Default) */
+/* Can be forced with data-theme="light" */
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+  --primary: #00897b;
+  --primary-hover: #00796b;
+  --primary-focus: rgba(0, 137, 123, 0.125);
+  --primary-inverse: #FFF;
+}
+
+/* Teal Dark scheme (Auto) */
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --primary: #00897b;
+    --primary-hover: #009688;
+    --primary-focus: rgba(0, 137, 123, 0.25);
+    --primary-inverse: #FFF;
+  }
+}
+
+/* Customizations */
+.main.container {
+    max-width: 800px;
+}
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    --typography-spacing-vertical: 1.8rem;
+}
+
+article {
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+  padding: 2rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+#result-text, #result-html {
+  font-size: 14px;
+}

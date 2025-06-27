@@ -5,6 +5,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("*.txt")
     // Ignore Templates folder
     eleventyConfig.ignores.add("/templates");
+    return {
+        dir: {            
+            output: "dist"
+        }
+    };
 };
 
 /*
