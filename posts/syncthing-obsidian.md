@@ -1,3 +1,5 @@
+git@github.com:nbnotabene/obsidian-11ty.git
+
 1. using obsidian to edit markdown
 2. using 11ty for static site generation
 3. using syncthing to syncronize
