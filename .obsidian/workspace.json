@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "new-post"
             }
+          },
+          {
+            "id": "0cb61fa5f8ea5108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/syncthing-obsidian.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "syncthing-obsidian"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,25 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4e774bf67f3d6ff",
+  "active": "0cb61fa5f8ea5108",
   "lastOpenFiles": [
+    "dist/posts/syncthing-obsidian/index.html",
+    "dist/posts/syncthing-obsidian",
+    "dist/posts/README/index.html",
+    "dist/posts/README",
+    "dist/posts/README.md/index.html",
+    "dist/posts/README.md",
+    "dist/posts/READNM/index.html",
+    "dist/posts/READNM",
+    "dist/posts/Untitled/index.html",
+    "dist/posts/Untitled",
+    "templates/new-post.md",
+    "posts/syncthing-obsidian.md",
     "posts/etiam-ligula.md",
     "README",
     "dist/posts/a-new-post/index.html",
-    "dist/posts/etiam-ligula/index.html",
-    "dist/posts/etiam-ligula",
-    "dist/posts/NBNB lorem-ipsum/index.html",
-    "dist/posts/NBNB lorem-ipsum",
-    "dist/index.html",
-    "dist/sitemap.xml",
-    "dist/posts/a-new-post",
-    "dist/posts",
     "dist/assets/images/image-1.png",
     "dist/assets/images/og.png",
     "dist/assets/images/icon.png",
     "dist/assets/images/git-plugin.png",
     "dist/assets/images/files-and-links-settings.png",
-    "templates/new-post.md",
     "posts/NBNB lorem-ipsum.md",
     "posts/a-new-post.md",
     "sitemap.md",

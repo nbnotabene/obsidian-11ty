@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/pico.min.css">
     <link rel="stylesheet" href="/assets/custom.css">
-    <title>Raw Notes from Obsidian</title>
+    <title></title>
 
     <!--og: Open Graph Protocol https://ogp.me/ -->
-    <meta property="og:title" content="Raw Notes from Obsidian | NB-info">
+    <meta property="og:title" content=" | NB-info">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://nbinfo.netlify.app/">
+    <meta property="og:url" content="https://nbinfo.netlify.app/posts/README/">
     <meta property="og:image" content="https://nbinfo.netlify.app/assets/images/og.png">
     <meta property="og:description" content="">
 
     <link rel="shortcut icon" type="image/png" href="/assets/images/icon.png">
 
-    <link rel="canonical" href="https://nbinfo.netlify.app/">
+    <link rel="canonical" href="https://nbinfo.netlify.app/posts/README/">
 
 </head>
 <body>
@@ -32,23 +32,50 @@
         </nav>
     </header>
     <main class="main container">
-        <h1>Raw Notes from Obsidian</h1>
-        <p>All notes being published here from Obsidian using <a href="https://11ty.dev/">Eleventy</a>.</p>
-<div>
-<ul>
-    <li><a href="/posts/a-new-post/">a new post</a></li>
-</ul>
-<ul>
-    <li><a href="/posts/etiam-ligula/">Pellentesque feugiat mi at libero pellentesque</a></li>
-</ul>
-<ul>
-    <li><a href="/posts/NBNB lorem-ipsum/">NB-info Lorem ipsum dolor sit amet</a></li>
-</ul>
-<ul>
-    <li><a href="/posts/syncthing-obsidian/"></a></li>
-</ul>
-<!-- Pagination links -->
-</div>
+        <h1></h1>
+        <p>**syncthing - obsidian</p>
+<ol>
+<li>using obsidian to edit markdown</li>
+<li>using 11ty for static site generation</li>
+<li>using syncthing to syncronize</li>
+<li>using NgInx for publishing</li>
+</ol>
+<p>to sync automatically when nb not logged in: Enable lingering for user nb</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Install</td>
+<td><code>sudo apt install syncthing</code></td>
+</tr>
+<tr>
+<td>Enable lingering</td>
+<td><code>sudo loginctl enable-linger nb</code> sudo loginctl disable-linger nb</td>
+</tr>
+<tr>
+<td>Enable service</td>
+<td><code>systemctl --user enable syncthing</code></td>
+</tr>
+<tr>
+<td>Start service</td>
+<td><code>systemctl --user start syncthing</code></td>
+</tr>
+<tr>
+<td>Status check</td>
+<td><code>systemctl --user status syncthing</code></td>
+</tr>
+</tbody>
+</table>
+<p>GUI runs on <code>127.0.0.1:8384</code></p>
+<p>6fgs5-cmkap</p>
+<p>/home/nb/Documents/obsidian/obsidian-11ty</p>
+<p>Ubuntu (port 8385):</p>
+<p>ssh -L 8385:localhost:8384 nb@digi</p>
 
     </main>
     <footer class="footer container">
