@@ -27,4 +27,4 @@ ssh -L 8385:localhost:8384 nb@digi
 LOCAL SERVER for 11ty publishing site
 ~/Documents/obsidian/obsidian-11ty$ **npm run serve**
 
-Static files in 
+Static files in ~/Documents/obsidian/obsidian-11ty/dist
