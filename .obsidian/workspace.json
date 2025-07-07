@@ -185,6 +185,7 @@
   },
   "active": "0cb61fa5f8ea5108",
   "lastOpenFiles": [
+    "dist/robots.txt",
     "dist/posts/syncthing-obsidian/index.html",
     "dist/posts/syncthing-obsidian",
     "dist/posts/README/index.html",
@@ -199,7 +200,6 @@
     "posts/syncthing-obsidian.md",
     "posts/etiam-ligula.md",
     "README",
-    "dist/posts/a-new-post/index.html",
     "dist/assets/images/image-1.png",
     "dist/assets/images/og.png",
     "dist/assets/images/icon.png",
