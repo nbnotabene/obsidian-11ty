@@ -51,11 +51,11 @@
 <tbody>
 <tr>
 <td>Install</td>
-<td><code>sudo apt install syncthing</code></td>
+<td><code>sudo apt install syncthing</code><br>/usr/bin/syncthing</td>
 </tr>
 <tr>
 <td>Enable lingering</td>
-<td><code>sudo loginctl enable-linger nb</code> sudo loginctl disable-linger nb</td>
+<td>keep user active on the server - even after logout!<br>sudo loginctl enable-linger nb<br>sudo loginctl disable-linger nb</td>
 </tr>
 <tr>
 <td>Enable service</td>
@@ -71,13 +71,14 @@
 </tr>
 </tbody>
 </table>
-<p>GUI runs on <code>127.0.0.1:8384</code></p>
+<p>GUI syncthing runs on <code>127.0.0.1:8384</code></p>
 <p>ID: 6fgs5-cmkap
 /home/nb/Documents/obsidian/obsidian-11ty</p>
 <p>Ubuntu (port 8385):
 ssh -L 8385:localhost:8384 nb@digi</p>
-<p>LOCAL SERVER
+<p>LOCAL SERVER for 11ty publishing site
 ~/Documents/obsidian/obsidian-11ty$ <strong>npm run serve</strong></p>
+<p>Static files in</p>
 
     </main>
     <footer class="footer container">
