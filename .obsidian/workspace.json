@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Yogavivo/Aktuelle opgaver.md",
+                "file": "posts/git.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aktuelle opgaver"
+              "title": "git"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Yogavivo/Aktuelle opgaver.md",
+                "file": "posts/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aktuelle opgaver"
+              "title": "Backlinks for git"
             }
           },
           {
@@ -183,9 +183,9 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "posts/Yogavivo/Aktuelle opgaver.md",
     "posts/Yogavivo/Aktuelle opgaver.md~",
     "posts/git.md",
-    "posts/Yogavivo/Aktuelle opgaver.md",
     "sitemap.md",
     "dist/aktuelt",
     "posts/Yogavivo/4913",
