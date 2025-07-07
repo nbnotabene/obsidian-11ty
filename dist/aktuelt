@@ -10,13 +10,13 @@
     <!--og: Open Graph Protocol https://ogp.me/ -->
     <meta property="og:title" content="Aktuelle opgaver | NB-info">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://nbinfo.netlify.app/posts/Yogavivo/Aktuelle opgaver/">
+    <meta property="og:url" content="https://nbinfo.netlify.app/aktuelt">
     <meta property="og:image" content="https://nbinfo.netlify.app/assets/images/og.png">
     <meta property="og:description" content="">
 
     <link rel="shortcut icon" type="image/png" href="/assets/images/icon.png">
 
-    <link rel="canonical" href="https://nbinfo.netlify.app/posts/Yogavivo/Aktuelle opgaver/">
+    <link rel="canonical" href="https://nbinfo.netlify.app/aktuelt">
 
 </head>
 <body>
