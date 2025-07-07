@@ -5,14 +5,6 @@
         <lastmod>2023-07-17</lastmod>
       </url>
       <url>
-        <loc>https://nbinfo.netlify.app/posts/a-new-post/</loc>
-        <lastmod>2024-02-14</lastmod>
-      </url>
-      <url>
-        <loc>https://nbinfo.netlify.app/posts/etiam-ligula/</loc>
-        <lastmod>2024-02-15</lastmod>
-      </url>
-      <url>
         <loc>https://nbinfo.netlify.app/posts/NBNB lorem-ipsum/</loc>
         <lastmod>2024-02-16</lastmod>
       </url>
@@ -23,5 +15,13 @@
       <url>
         <loc>https://nbinfo.netlify.app/posts/syncthing-obsidian/</loc>
         <lastmod>2025-07-05</lastmod>
+      </url>
+      <url>
+        <loc>https://nbinfo.netlify.app/posts/git/</loc>
+        <lastmod>2025-07-07</lastmod>
+      </url>
+      <url>
+        <loc>https://nbinfo.netlify.app/posts/mailtrap/</loc>
+        <lastmod>2025-07-07</lastmod>
       </url>
 </urlset>

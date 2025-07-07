@@ -1,7 +1,7 @@
 ---
-title: a new post
-description: this is a new post
-date: 2024-02-14
+title: mailtrap
+description: Mail as a service
+date: 2025-07-07
 ---
 Lorem ipsum dolor sit amet, [consectetur adipiscing](posts/NBNB%20lorem-ipsum.md) elit. In vitae ultrices enim. Aliquam efficitur condimentum magna, sit amet eleifend nulla feugiat sit amet.
 
