@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/mailtrap.md",
+                "file": "posts/Yogavivo/Aktuelle opgaver.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "mailtrap"
+              "title": "Aktuelle opgaver"
             }
           },
           {
@@ -184,23 +184,23 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "posts/syncthing-obsidian.md",
+    "posts/Yogavivo/Aktuelle opgaver.md",
+    "dist/posts/Yogavivo/Aktuelle opgaver/index.html",
+    "dist/posts/Yogavivo/Aktuelle opgaver",
+    "dist/posts/Yogavivo",
+    "posts/Yogavivo",
+    "dist/posts/Aktuelle opgaver/index.html",
+    "dist/posts/Aktuelle opgaver",
+    "posts/mailtrap.md",
     "posts/git.md",
     "posts/etiam-ligula.md",
     "dist/posts/git/index.html",
     "dist/posts/git",
     "dist/posts/mailtrap 1/index.html",
     "dist/posts/mailtrap 1",
-    "posts/mailtrap.md",
     "posts/2024-02-14.md",
-    "dist/posts/2024-02-14/index.html",
-    "dist/posts/2024-02-14",
-    "dist/posts/mailtrap/index.html",
-    "dist/posts/mailtrap",
-    "posts/syncthing-obsidian.md",
-    "posts/NBNB lorem-ipsum.md",
     "templates/new-post.md",
-    "dist/robots.txt",
-    "dist/posts/syncthing-obsidian/index.html",
     "dist/posts/README.md",
     "dist/assets/images/image-1.png",
     "dist/assets/images/og.png",
