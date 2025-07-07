@@ -35,8 +35,7 @@
               "title": "syncthing-obsidian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb61fa5f8ea5108",
+  "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "posts/syncthing-obsidian.md",
     "dist/robots.txt",
     "dist/posts/syncthing-obsidian/index.html",
     "dist/posts/syncthing-obsidian",
@@ -197,9 +197,7 @@
     "dist/posts/Untitled/index.html",
     "dist/posts/Untitled",
     "templates/new-post.md",
-    "posts/syncthing-obsidian.md",
     "posts/etiam-ligula.md",
-    "README",
     "dist/assets/images/image-1.png",
     "dist/assets/images/og.png",
     "dist/assets/images/icon.png",
