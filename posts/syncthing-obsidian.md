@@ -24,3 +24,6 @@ ID: 6fgs5-cmkap
 
 Ubuntu (port 8385):
 ssh -L 8385:localhost:8384 nb@digi
+
+LOCAL SERVER
+~/Documents/obsidian/obsidian-11ty$ **npm run serve**
