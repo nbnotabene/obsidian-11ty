@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/lorem-ipsum.md",
+                "file": "posts/Yogavivo/Aktuelle opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lorem-ipsum"
+              "title": "Backlinks for Aktuelle opgaver"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +183,11 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
-    "sitemap.md",
-    "posts/Yogavivo/Aktuelle opgaver.md",
-    "dist/aktuelt",
     "posts/Yogavivo/Aktuelle opgaver.md~",
+    "posts/git.md",
+    "posts/Yogavivo/Aktuelle opgaver.md",
+    "sitemap.md",
+    "dist/aktuelt",
     "posts/Yogavivo/4913",
     "posts/syncthing-obsidian.md",
     "dist/posts/Yogavivo/Aktuelle opgaver/index.html",
@@ -197,7 +197,6 @@
     "dist/posts/Aktuelle opgaver/index.html",
     "dist/posts/Aktuelle opgaver",
     "posts/mailtrap.md",
-    "posts/git.md",
     "posts/etiam-ligula.md",
     "dist/posts/git/index.html",
     "posts/2024-02-14.md",

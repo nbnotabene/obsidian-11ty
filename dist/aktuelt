@@ -44,13 +44,11 @@
 <li>OTI på flere users i WP</li>
 <li>start på iTunes og skifter medlemskab til BT betaling. Vi skal finde dem der betaler dobbelt</li>
 </ol>
-<p>Punkter:</p>
-<ul>
-<li>oprydning i databaser ift. iTunes</li>
-<li>indsæt login / device / IOS i WP backend view</li>
-<li>opsamles OTI som det skal ved besøg på videosiden</li>
-<li>sørg for at OTI'er også er opdateret i iTunes Members modul</li>
-</ul>
+<p>Punkter:
+3. oprydning i databaser ift. iTunes
+4. indsæt login / device / IOS i WP backend view
+5. opsamles OTI som det skal ved besøg på videosiden
+6. sørg for at OTI'er også er opdateret i iTunes Members modul</p>
 <table>
 <thead>
 <tr>
@@ -85,6 +83,7 @@
 </tr>
 </tbody>
 </table>
+<p>https://yogavivo.atlassian.net/browse/YP-58</p>
 
     </main>
     <footer class="footer container">

@@ -15,10 +15,10 @@ Edge cases:
 2. start på iTunes og skifter medlemskab til BT betaling. Vi skal finde dem der betaler dobbelt
  
 Punkter: 
-* oprydning i databaser ift. iTunes
-* indsæt login / device / IOS i WP backend view
-* opsamles OTI som det skal ved besøg på videosiden
-* sørg for at OTI'er også er opdateret i iTunes Members modul
+3. oprydning i databaser ift. iTunes
+4. indsæt login / device / IOS i WP backend view
+5. opsamles OTI som det skal ved besøg på videosiden
+6. sørg for at OTI'er også er opdateret i iTunes Members modul
 
 |name     |  description   |
 | --- | --- |
@@ -29,4 +29,5 @@ Punkter:
 | Upgrade From Trial | Extend NRD 1/3/12 months |
 | logs should have updated NRD | |
  
- 
+https://yogavivo.atlassian.net/browse/YP-58
+
