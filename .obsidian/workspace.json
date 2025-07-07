@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "posts/Yogavivo/Aktuelle opgaver.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -184,6 +184,8 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "posts/Yogavivo/Aktuelle opgaver.md~",
+    "posts/Yogavivo/4913",
     "posts/syncthing-obsidian.md",
     "posts/Yogavivo/Aktuelle opgaver.md",
     "dist/posts/Yogavivo/Aktuelle opgaver/index.html",
@@ -198,7 +200,6 @@
     "dist/posts/git/index.html",
     "dist/posts/git",
     "dist/posts/mailtrap 1/index.html",
-    "dist/posts/mailtrap 1",
     "posts/2024-02-14.md",
     "templates/new-post.md",
     "dist/posts/README.md",

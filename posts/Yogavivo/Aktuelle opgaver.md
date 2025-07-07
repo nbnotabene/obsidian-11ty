@@ -1,7 +1,7 @@
 ---
-title: NB-info Lorem ipsum dolor sit amet
+title: Aktuelle opgaver
 description: 
-date: 2024-02-16
+date: 2024-07-07
 ---
 Kriterier freeriders:
 1. ITUNES membership
@@ -9,15 +9,21 @@ Kriterier freeriders:
 3. manglende betaling til Apple den seneste måned
  
 Edge cases: 
-4. OTI på flere users i WP
-5) start på iTunes og skifter medlemskab til BT betaling. Vi skal finde dem der betaler dobbelt
+1. OTI på flere users i WP
+2. start på iTunes og skifter medlemskab til BT betaling. Vi skal finde dem der betaler dobbelt
  
 Punkter: 
-*) oprydning i databaser ift. iTunes
-*) indsæt login / device / IOS i WP backend view
-*) opsamles OTI som det skal ved besøg på videosiden
-*) sørg for at OTI'er også er opdateret i iTunes Members modul
+* oprydning i databaser ift. iTunes
+* indsæt login / device / IOS i WP backend view
+* opsamles OTI som det skal ved besøg på videosiden
+* sørg for at OTI'er også er opdateret i iTunes Members modul
 
+
+|asdf     |  sadf   |
+| --- | --- |
+|     |     |
+
+| --- | --- |
 |iTunes|Process Flowchart|
 |iTunes|Find "Free-riders", paying members and in-betweens|
 |Cancellation Offering|Extend NRD 14 days|
