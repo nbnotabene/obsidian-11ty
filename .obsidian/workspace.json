@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Yogavivo/Aktuelle opgaver.md",
-                "mode": "preview",
+                "file": "sitemap.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aktuelle opgaver"
+              "title": "sitemap"
             }
           },
           {
@@ -184,11 +184,11 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "posts/Yogavivo/Aktuelle opgaver.md",
     "dist/aktuelt",
     "posts/Yogavivo/Aktuelle opgaver.md~",
     "posts/Yogavivo/4913",
     "posts/syncthing-obsidian.md",
-    "posts/Yogavivo/Aktuelle opgaver.md",
     "dist/posts/Yogavivo/Aktuelle opgaver/index.html",
     "dist/posts/Yogavivo/Aktuelle opgaver",
     "dist/posts/Yogavivo",
@@ -199,7 +199,6 @@
     "posts/git.md",
     "posts/etiam-ligula.md",
     "dist/posts/git/index.html",
-    "dist/posts/git",
     "posts/2024-02-14.md",
     "templates/new-post.md",
     "dist/posts/README.md",
