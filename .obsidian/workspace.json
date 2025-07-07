@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sitemap.md",
+                "file": "posts/Yogavivo/Aktuelle opgaver.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sitemap"
+              "title": "Aktuelle opgaver"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "a4e774bf67f3d6ff",
   "lastOpenFiles": [
+    "sitemap.md",
     "posts/Yogavivo/Aktuelle opgaver.md",
     "dist/aktuelt",
     "posts/Yogavivo/Aktuelle opgaver.md~",
@@ -207,7 +208,6 @@
     "dist/assets/images/icon.png",
     "dist/assets/images/git-plugin.png",
     "dist/assets/images/files-and-links-settings.png",
-    "sitemap.md",
     "index.md",
     "assets/images.md",
     "_site/assets/images.md",
